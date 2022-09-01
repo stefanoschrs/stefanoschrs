@@ -1,6 +1,6 @@
 👶 I've been programming since I was 12 and I've been involved with Web & Mobile technologies for more than 10 years  
 🔨 I've been part of numerous projects handling Front-end, Back-end, Hardware, Dev-ops  
-🏗 My favorite stack is Angular, Ionic, JavaScript, Node.js, Go, Linux  
+🏗 My favorite stack is Angular, React Native, JavaScript, Node.js, Go, Linux, AWS  
 ☕ I love scripting and automations  
 ☣ I have a strong interest in Security  
   
