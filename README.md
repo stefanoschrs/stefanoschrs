@@ -5,4 +5,4 @@
 ☣ I have a strong interest in Security  
   
   
-Currently on Digital Nomad journey to **Code & Run** around the world! So far: `...["Thailand", "Indonesia", "Malaysia", "Brunei", "Singapore", "France", "Spain", "Portugal", "Germany", "Czechia", "Bulgaria", "Cyprus"]`
+Currently on Digital Nomad journey to **Code & Run** around the world! So far: `...["Croatia","Thailand", "Indonesia", "Malaysia", "Brunei", "Singapore", "France", "Spain", "Portugal", "Germany", "Czechia", "Bulgaria", "Cyprus"]`
